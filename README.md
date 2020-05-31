@@ -52,8 +52,6 @@ files({
     'client/html/index.html',
     -- Begin Sound Files Here...
     -- client/html/sounds/ ... .ogg
-    'client/html/sounds/demo.ogg',
-    'client/html/sounds/demo.ogg',
 	'client/html/sounds/stop_vehicle.ogg',
 	'client/html/sounds/stop_vehicle-2.ogg',
 	'client/html/sounds/stop_the_f_car.ogg',
@@ -74,8 +72,6 @@ files({
 	'client/html/sounds/disperse_now.ogg',
 	'client/html/sounds/shoot_to_kill.ogg',
 	'client/html/sounds/drop_a_missile.ogg',
-	'client/html/sounds/lock.ogg',
-	'client/html/sounds/unlock.ogg',
 	'client/html/sounds/pullover_now_lspd.ogg',
 	'client/html/sounds/last_chance.ogg',
 	'client/html/sounds/move_asses.ogg',
