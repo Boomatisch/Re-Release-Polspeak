@@ -12,4 +12,6 @@ It's a custom Version from the [Polspeak](https://forum.cfx.re/t/release-polspea
 3. This Sound's are **Server-Sided!** and all Player in an Area  around 400m can hear that!
 
 **Requirements:** NativeUI, InteractSound
+
+
 **Default control:** F10
