@@ -16,9 +16,21 @@ It's a custom Version from the [Polspeak](https://forum.cfx.re/t/release-polspea
 
 **Default control:** F10
 
+
+**ATTENTION**
+You're ***not*** allowed to re-upload this Resource without my Permission!
+If you want to release a "new" Version of this Resource add me on Discord and we talk about that :)
+
+***Discord***: Boomatisch#2292
+
+**Support**
+If you wish any Support write in the Comment Section below! ;)
+
+If you like this Script let me know ;)
+
 # Installation
 
-1. Download this Resource
+1. Download this Resource from here or 
 2. Extract this Resource
 3. Drop this Resource in your Resources Folder
 4. Copy **ALL** Sound-File's from polspeak/sounds in -> InteractSound/client/html/sounds
