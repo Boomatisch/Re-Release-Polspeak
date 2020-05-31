@@ -16,3 +16,8 @@ It's a custom Version from the [Polspeak](https://forum.cfx.re/t/release-polspea
 
 **Default control:** F10
 
+
+--Add this Line's to the _resource.lua in your Interact-Sound Folder:
+
+
+
