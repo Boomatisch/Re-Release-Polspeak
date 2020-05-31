@@ -17,6 +17,22 @@ It's a custom Version from the [Polspeak](https://forum.cfx.re/t/release-polspea
 **Default control:** F10
 
 # Installation
+
+1. Download this Resource
+2. Extract this Resource
+3. Drop this Resource in your Resources Folder
+4. Copy **ALL** Sound-File's from polspeak/sounds in -> InteractSound/client/html/sounds
+5. Write ***ALL*** Sound-File Name's in the _resource.lua in your Interact-Sound Folder ***OR*** copy this Line's from the Read Me!
+
+```
+Add to your Server.cfg
+
+start NativeUI
+start InteractSound
+start polspeak
+```
+
+
 Copy this Line's to your InteractSound __resource.lua file: 
 ```
 files({
@@ -89,5 +105,10 @@ files({
 	'client/html/sounds/tires_out.ogg',
 })
 ```
+
+
+**Importent Note**
+
+If you want to use Custom Police Car's with this Script you only have to get the Spawn Name from the Car and write it in the config.lua ;)
 
 
