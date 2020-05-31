@@ -31,7 +31,7 @@ If you like this Script let me know ;)
 
 # Installation
 
-1. Download this Resource from here or 
+1. Download this Resource from here or go to my FiveM Forum Post: --LINK SOON--
 2. Extract this Resource
 3. Drop this Resource in your Resources Folder
 4. Copy ***ALL*** Sound-File's from polspeak/sounds in -> InteractSound/client/html/sounds
