@@ -34,7 +34,7 @@ If you like this Script let me know ;)
 1. Download this Resource from here or 
 2. Extract this Resource
 3. Drop this Resource in your Resources Folder
-4. Copy **ALL** Sound-File's from polspeak/sounds in -> InteractSound/client/html/sounds
+4. Copy ***ALL*** Sound-File's from polspeak/sounds in -> InteractSound/client/html/sounds
 5. Write ***ALL*** Sound-File Name's in the _resource.lua in your Interact-Sound Folder ***OR*** copy this Line's from the Read Me!
 
 ```
