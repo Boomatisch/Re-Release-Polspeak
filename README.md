@@ -2,6 +2,9 @@
 Hello,
 today i want to release my first Script
 
+---!!!Please read the whole README.md carefully!!!---
+
+
 **What it is?**
 
 It's a custom Version from the [Polspeak](https://forum.cfx.re/t/release-polspeak-police-vehicle-megaphone/257835). I've just added like 15 Sounds ;)
@@ -120,6 +123,6 @@ files({
 
 If you want to use Custom Police Car's with this Script you only have to get the Spawn Name from the Car and write it in the config.lua ;)
 
-***Support**
+***Support***
 
 If you want any Support write here in the Comment Section below or creat an Issue ;) I'll give my best to hlep you :)
