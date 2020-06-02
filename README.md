@@ -125,4 +125,4 @@ If you want to use Custom Police Car's with this Script you only have to get the
 
 ***Support***
 
-If you want any Support write here in the Comment Section below or creat an Issue ;) I'll give my best to hlep you :)
+If you want any Support write here in the Comment Section below or creat an Issue ;) I'll give my best to help you :)
