@@ -25,7 +25,7 @@ It's a custom Version from the [Polspeak](https://forum.cfx.re/t/release-polspea
 You're ***not*** allowed to re-upload this Resource without my Permission!
 If you want to release a "new" Version of this Resource add me on Discord and we talk about that :)
 
-***Discord***: Boomatisch#2292
+***Discord***: 𝕭𝖔𝖔𝖒𝖆𝖙𝖎𝖘𝖈𝖍 |𝕯𝖆𝖛𝖎𝖉#2292
 
 **Support**
 If you wish any Support write in the Comment Section below! ;)
