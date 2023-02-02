@@ -9,6 +9,11 @@ today i want to release my first Script
 
 It's a custom Version from the [Polspeak](https://forum.cfx.re/t/release-polspeak-police-vehicle-megaphone/257835). I've just added like 15 Sounds ;)
 
+```
+# Demo
+https://streamable.com/04ranf
+```
+
 
 ***IMPORTANT***
 1. I have writen Permisson's from @G.Bronson to Re-upload it! 
@@ -39,6 +44,7 @@ If you like this Script let me know ;)
 3. Drop this Resource in your Resources Folder
 4. Copy ***ALL*** Sound-File's from polspeak/sounds in -> InteractSound/client/html/sounds
 5. Write ***ALL*** Sound-File Name's in the _resource.lua in your Interact-Sound Folder ***OR*** copy this Line's from the Read Me!
+6. Restart Server, Enjoy!
 
 ```
 Add to your Server.cfg
@@ -49,12 +55,12 @@ start polspeak
 ```
 
 
-Copy this Line's to your InteractSound __resource.lua file: 
+Copy the following Lines to your InteractSound fxmanifest.lua
 ```
 files({
-    'client/html/index.html',
+
     -- Begin Sound Files Here...
-    -- client/html/sounds/ ... .ogg
+    
 	'client/html/sounds/stop_vehicle.ogg',
 	'client/html/sounds/stop_vehicle-2.ogg',
 	'client/html/sounds/stop_the_f_car.ogg',
